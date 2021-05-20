@@ -1,4 +1,4 @@
-本文使用的内核版本：`5.11.1`。在线查看源码：https://elixir.bootlin.com/linux/v5.11.1/source。
+本文使用的内核版本：`5.11.1`。在线查看源码：[https://elixir.bootlin.com/linux/v5.11.1/source](https://elixir.bootlin.com/linux/v5.11.1/source)。
 
 # Clone() 系统调用的源码分析
 
