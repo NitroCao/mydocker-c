@@ -17,6 +17,7 @@
 
 * 构造一个基本的容器（[basic](docs/basic.md)）
 * clone() 系统调用的内核源码分析（[clone](docs/read-clone-kernel-code.md)）
+* 设置容器的文件系统 ([fs](docs/fs.md))
 
 ## 参考书籍
 * 《Linux/UNIX 系统编程手册》
